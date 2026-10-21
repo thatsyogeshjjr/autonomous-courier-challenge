@@ -1,0 +1,15 @@
+[0.840s] Invoking command in '/home/yogesh/dev/autonomous-courier-challenge/ros2_ws/build/courier_bringup': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/yogesh/dev/autonomous-courier-challenge/ros2_ws/build/courier_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yogesh/dev/autonomous-courier-challenge/ros2_ws/install/courier_bringup/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yogesh/dev/autonomous-courier-challenge/ros2_ws/build/courier_bringup/build --no-deps symlink_data
+[1.181s] running develop
+[1.373s] running egg_info
+[1.391s] writing courier_bringup.egg-info/PKG-INFO
+[1.391s] writing dependency_links to courier_bringup.egg-info/dependency_links.txt
+[1.391s] writing requirements to courier_bringup.egg-info/requires.txt
+[1.391s] writing top-level names to courier_bringup.egg-info/top_level.txt
+[1.429s] reading manifest file 'courier_bringup.egg-info/SOURCES.txt'
+[1.430s] writing manifest file 'courier_bringup.egg-info/SOURCES.txt'
+[1.450s] running build_ext
+[1.450s] Creating /home/yogesh/dev/autonomous-courier-challenge/ros2_ws/install/courier_bringup/lib/python3.12/site-packages/courier-bringup.egg-link (link to .)
+[1.451s] 
+[1.451s] Installed /home/yogesh/dev/autonomous-courier-challenge/ros2_ws/build/courier_bringup
+[1.451s] running symlink_data
+[1.484s] Invoked command in '/home/yogesh/dev/autonomous-courier-challenge/ros2_ws/build/courier_bringup' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/yogesh/dev/autonomous-courier-challenge/ros2_ws/build/courier_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yogesh/dev/autonomous-courier-challenge/ros2_ws/install/courier_bringup/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yogesh/dev/autonomous-courier-challenge/ros2_ws/build/courier_bringup/build --no-deps symlink_data
