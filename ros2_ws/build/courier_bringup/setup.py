@@ -1,1 +1,0 @@
-/home/yogesh/dev/autonomous-courier-challenge/ros2_ws/src/courier_bringup/setup.py
